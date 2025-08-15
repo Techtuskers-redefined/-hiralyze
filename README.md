@@ -1,4 +1,4 @@
-# Resume Screening Platform
+# Hiralyze - AI Hiring Platform
 
 A comprehensive, AI-powered resume screening and recruitment platform built with MERN stack (MongoDB, Express.js, React, Node.js) and Python AI/ML services using GROQ + GEMINI APIs.
 
@@ -63,8 +63,8 @@ A comprehensive, AI-powered resume screening and recruitment platform built with
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd resume-screening-platform
+git clone https://github.com/Techtuskers-redefined/-hiralyze.git
+cd -hiralyze
 ```
 
 ### 2. Frontend Setup
@@ -278,4 +278,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ by the Hiralyze Team**
+**Built with ❤️ by Team TechTuskers**
